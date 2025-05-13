@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50BC82EE-751C-4340-976E-F5F6CABC4C0B}|Proyecto_GUI\\Proyecto_GUI.csproj|e:\\escritorio\\idat\\tercer ciclo\\herramientas de programacion i\\proyecto final\\gestion_inventario\\proyecto_gui\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BC82EE-751C-4340-976E-F5F6CABC4C0B}|Proyecto_GUI\\Proyecto_GUI.csproj|solutionrelative:proyecto_gui\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BC82EE-751C-4340-976E-F5F6CABC4C0B}|Proyecto_GUI\\Proyecto_GUI.csproj|E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\proyecto_gui\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50BC82EE-751C-4340-976E-F5F6CABC4C0B}|Proyecto_GUI\\Proyecto_GUI.csproj|solutionrelative:proyecto_gui\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BC82EE-751C-4340-976E-F5F6CABC4C0B}|Proyecto_GUI\\Proyecto_GUI.csproj|E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\proyecto_gui\\frmactualizarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BC82EE-751C-4340-976E-F5F6CABC4C0B}|Proyecto_GUI\\Proyecto_GUI.csproj|solutionrelative:proyecto_gui\\frmactualizarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BC82EE-751C-4340-976E-F5F6CABC4C0B}|Proyecto_GUI\\Proyecto_GUI.csproj|E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\proyecto_gui\\frmactualizarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50BC82EE-751C-4340-976E-F5F6CABC4C0B}|Proyecto_GUI\\Proyecto_GUI.csproj|solutionrelative:proyecto_gui\\frmactualizarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BC82EE-751C-4340-976E-F5F6CABC4C0B}|Proyecto_GUI\\Proyecto_GUI.csproj|E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\proyecto_gui\\mdigestioninventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50BC82EE-751C-4340-976E-F5F6CABC4C0B}|Proyecto_GUI\\Proyecto_GUI.csproj|solutionrelative:proyecto_gui\\mdigestioninventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 315,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InicioSesion.cs",
+              "DocumentMoniker": "E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\Proyecto_GUI\\InicioSesion.cs",
+              "RelativeDocumentMoniker": "Proyecto_GUI\\InicioSesion.cs",
+              "ToolTip": "E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\Proyecto_GUI\\InicioSesion.cs",
+              "RelativeToolTip": "Proyecto_GUI\\InicioSesion.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAD4vyQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:28:05.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmActualizarEmpleado.cs",
+              "DocumentMoniker": "E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\Proyecto_GUI\\FrmActualizarEmpleado.cs",
+              "RelativeDocumentMoniker": "Proyecto_GUI\\FrmActualizarEmpleado.cs",
+              "ToolTip": "E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\Proyecto_GUI\\FrmActualizarEmpleado.cs",
+              "RelativeToolTip": "Proyecto_GUI\\FrmActualizarEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:51:16.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmActualizarEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\Proyecto_GUI\\FrmActualizarEmpleado.cs",
+              "RelativeDocumentMoniker": "Proyecto_GUI\\FrmActualizarEmpleado.cs",
+              "ToolTip": "E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\Proyecto_GUI\\FrmActualizarEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_GUI\\FrmActualizarEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T20:21:16.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MDIGestionInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\Proyecto_GUI\\MDIGestionInventario.cs",
+              "RelativeDocumentMoniker": "Proyecto_GUI\\MDIGestionInventario.cs",
+              "ToolTip": "E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\Proyecto_GUI\\MDIGestionInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_GUI\\MDIGestionInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T18:32:18.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InicioSesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\Proyecto_GUI\\InicioSesion.cs",
+              "RelativeDocumentMoniker": "Proyecto_GUI\\InicioSesion.cs",
+              "ToolTip": "E:\\ESCRITORIO\\IDAT\\TERCER CICLO\\HERRAMIENTAS DE PROGRAMACION I\\PROYECTO FINAL\\Gestion_Inventario\\Proyecto_GUI\\InicioSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_GUI\\InicioSesion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:45:08.149Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

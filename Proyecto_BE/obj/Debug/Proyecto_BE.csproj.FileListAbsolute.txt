@@ -1,0 +1,12 @@
+D:\TERCER CICLO\HERRAMIENTAS DE PROGRAMACION I\SESION 11\Gestion_Inventario\Proyecto_BE\bin\Debug\Proyecto_BE.dll
+D:\TERCER CICLO\HERRAMIENTAS DE PROGRAMACION I\SESION 11\Gestion_Inventario\Proyecto_BE\bin\Debug\Proyecto_BE.pdb
+D:\TERCER CICLO\HERRAMIENTAS DE PROGRAMACION I\SESION 11\Gestion_Inventario\Proyecto_BE\obj\Debug\Proyecto_BE.csproj.AssemblyReference.cache
+D:\TERCER CICLO\HERRAMIENTAS DE PROGRAMACION I\SESION 11\Gestion_Inventario\Proyecto_BE\obj\Debug\Proyecto_BE.csproj.CoreCompileInputs.cache
+D:\TERCER CICLO\HERRAMIENTAS DE PROGRAMACION I\SESION 11\Gestion_Inventario\Proyecto_BE\obj\Debug\Proyecto_BE.dll
+D:\TERCER CICLO\HERRAMIENTAS DE PROGRAMACION I\SESION 11\Gestion_Inventario\Proyecto_BE\obj\Debug\Proyecto_BE.pdb
+E:\ESCRITORIO\IDAT\TERCER CICLO\HERRAMIENTAS DE PROGRAMACION I\PROYECTO FINAL\Gestion_Inventario\Proyecto_BE\bin\Debug\Proyecto_BE.dll
+E:\ESCRITORIO\IDAT\TERCER CICLO\HERRAMIENTAS DE PROGRAMACION I\PROYECTO FINAL\Gestion_Inventario\Proyecto_BE\bin\Debug\Proyecto_BE.pdb
+E:\ESCRITORIO\IDAT\TERCER CICLO\HERRAMIENTAS DE PROGRAMACION I\PROYECTO FINAL\Gestion_Inventario\Proyecto_BE\obj\Debug\Proyecto_BE.csproj.AssemblyReference.cache
+E:\ESCRITORIO\IDAT\TERCER CICLO\HERRAMIENTAS DE PROGRAMACION I\PROYECTO FINAL\Gestion_Inventario\Proyecto_BE\obj\Debug\Proyecto_BE.csproj.CoreCompileInputs.cache
+E:\ESCRITORIO\IDAT\TERCER CICLO\HERRAMIENTAS DE PROGRAMACION I\PROYECTO FINAL\Gestion_Inventario\Proyecto_BE\obj\Debug\Proyecto_BE.dll
+E:\ESCRITORIO\IDAT\TERCER CICLO\HERRAMIENTAS DE PROGRAMACION I\PROYECTO FINAL\Gestion_Inventario\Proyecto_BE\obj\Debug\Proyecto_BE.pdb
