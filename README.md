@@ -32,11 +32,11 @@ Aplicación de escritorio desarrollada en **C# y .NET**, con **SQL Server** como
 
 5. Ejecuta el proyecto desde Visual Studio.
 
-![Login para ingresar a la aplicación](img/login.png)
-![Menu Principal que tiene los botones para ingresar a cada ventana de empleados, productos, proveedores, etc. ](img/menuPrincipal.png.png)
-![Pantalla para gestionar los empleados (Crear y Actualizar)](img/gestionEmpleados.png.png)
-![Pantalla para gestionar los productos (Crear y Actualizar)](img/gestionProductos.png)
-![Pantalla para gestionar los proveedores (Crear y Actualizar)](img/gestionProveedores.png.png)
+![Login para ingresar a la aplicación](Img/login.png)
+![Menu Principal que tiene los botones para ingresar a cada ventana de empleados, productos, proveedores, etc. ](Img/menuPrincipal.png)
+![Pantalla para gestionar los empleados (Crear y Actualizar)](Img/gestionEmpleados.png)
+![Pantalla para gestionar los productos (Crear y Actualizar)](Img/gestionProductos.png)
+![Pantalla para gestionar los proveedores (Crear y Actualizar)](Img/gestionProveedores.png)
 
 
 
